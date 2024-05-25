@@ -1,4 +1,4 @@
-# WSO2-2021-1258: Zip Slip vulnerability in the WSO2 ESB
+# WSO2-2021-1258: Zip Slip vulnerability in WSO2 ESB
 
 A ZIP file based directory traversal (Zip Slip) vulnerability was identified in the WSO2 Management Console. Remote code execution may be obtained by writing/overwriting specific files.
 
